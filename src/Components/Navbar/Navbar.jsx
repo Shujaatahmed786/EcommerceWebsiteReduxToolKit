@@ -7,7 +7,7 @@ const Navbar = () => {
       <div className="bg-black p-2 w-full ">
         <h3 className="text-white text-center text-2xl">Hello world</h3>
       </div>
-      <div className="flex justify-around items-center h-24 border-solid border-2 border-red-400">
+      <div className="flex justify-around items-center h-24 ">
         <img className="h-18 w-14" src={Logo} alt="logo" />
         <div className="flex">
           <button className="text-base text-medium">Logout</button>
